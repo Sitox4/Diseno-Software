@@ -1,2 +1,2 @@
-# Dise-o-Software
+# Diseno-Software
 Ejercicios de prueba Diseño Software
